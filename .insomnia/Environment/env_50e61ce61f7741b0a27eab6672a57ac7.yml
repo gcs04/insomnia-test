@@ -1,0 +1,14 @@
+_id: env_50e61ce61f7741b0a27eab6672a57ac7
+type: Environment
+parentId: env_9a34fc34254c3e59726c7c84e95402ba8cd8231a
+modified: 1634742556901
+created: 1634742507424
+name: Stubbed Showcase
+data:
+  host: https://ls-stubbed-showcase.dev.ce.eu-central-1-aws.npottdc.sky/ls
+dataPropertyOrder:
+  "&":
+    - host
+color: null
+isPrivate: false
+metaSortKey: 1

@@ -1,0 +1,29 @@
+_id: req_4882a27d3e344b1c854020908c43729d
+type: Request
+parentId: fld_ddd9453419824b309d9d30a6241b5744
+modified: 1634742656578
+created: 1634742590611
+url: "{{ _.host }}/localisation"
+name: localisation
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_9904c3f0a1684aa5a0e5d81a7cf3ef35
+    name: Accept
+    value: application/vnd.localisationinfo.v1+json
+    description: ""
+  - id: pair_493e22f52a6c4333921bb9b3fae43f57
+    name: x-skyott-provider
+    value: NBCU
+    description: ""
+authentication: {}
+metaSortKey: -1634742590611
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
