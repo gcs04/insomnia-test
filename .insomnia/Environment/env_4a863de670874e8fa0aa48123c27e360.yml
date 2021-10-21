@@ -1,11 +1,11 @@
 _id: env_4a863de670874e8fa0aa48123c27e360
 type: Environment
 parentId: env_9a34fc34254c3e59726c7c84e95402ba8cd8231a
-modified: 1634742556900
+modified: 1634821589789
 created: 1634742522661
 name: Int
 data:
-  host: https://int.dev.ce.eu-central-1-aws.npottdc.sky/ls
+  host: https://ls-int.dev.ce.eu-central-1-aws.npottdc.sky/ls
 dataPropertyOrder:
   "&":
     - host
